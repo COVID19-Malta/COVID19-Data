@@ -6,7 +6,7 @@ This Repository is updated daily by 1pm
 
 ## Number of PCR Tests
 
-On 11th September 2020, the dataset reflects an updated population denominator at 514,564.
+From 11th September 2020 onwards, the dataset reflects an updated population denominator at 514,564.
 
 From 1st February 2020 to 10th September, the dataset used the value of 498,000 as population denominator
 
