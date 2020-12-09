@@ -2,8 +2,6 @@
 
 This is an Official Open Dataset on COVID19 in Malta from the COVID-19 Public Health Response Team.
 
-This Repository is updated daily by 1pm
-
 ## Number of PCR Tests
 
 From 11th September 2020 onwards, the dataset reflects an updated population denominator at 514,564.
