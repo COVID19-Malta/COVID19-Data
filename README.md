@@ -10,7 +10,7 @@ From 1st February 2020 to 10th September, the dataset used the value of 498,000 
 
 ## Number of Vaccination Doses
 
-The current data reflects the cumulative number of vaccination doses reported by date.
+The current data reflects the cumulative number of vaccination doses and the number of individuals that had second dose taken reported by date.
 
 ## Number of COVID-19 App Check Responses
 
