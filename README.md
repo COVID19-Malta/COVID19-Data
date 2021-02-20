@@ -1,6 +1,6 @@
 # COVID-19 in Malta - Open Dataset
 
-This is an Official Open Dataset on COVID19 in Malta from the COVID-19 Public Health Response Team.
+This is an Official Open Dataset on COVID19 in Malta from the COVID-19 Public Health Response Team (Ministry for Health).
 
 ## Number of PCR Tests
 
