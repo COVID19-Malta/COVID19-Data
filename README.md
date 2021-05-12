@@ -2,15 +2,15 @@
 
 This is an Official Open Dataset on COVID19 in Malta from the COVID-19 Public Health Response Team (Ministry for Health).
 
-## Number of PCR Tests
+## Number of Swab Tests
 
-From 11th September 2020 onwards, the dataset reflects an updated population denominator at 514,564.
+From 11th September 2020 onwards, the dataset reflects an updated population denominator at 514,564. From 1st February 2020 to 10th September, the dataset used the value of 498,000 as population denominator
 
-From 1st February 2020 to 10th September, the dataset used the value of 498,000 as population denominator
+These figures include PCR Tests only up till 19th February 2021 and from 20th February 2021 onwards include both PCR and Rapid Antigen Tests submitted through the COVID Rapid Testing Malta Portal.
 
 ## Number of Vaccination Doses
 
-The current data reflects the cumulative number of vaccination doses and the number of individuals that had second dose taken reported by date.
+The current data reflects the cumulative number of vaccination doses, the number of individuals that had second dose taken and the number of individuals that took the first dose (including J&J Vaccine) reported by date.
 
 ## COVID Alert Malta - Statistics Table
 
@@ -19,5 +19,7 @@ COVID Alert Malta (https://covidalert.gov.mt) is the Government of Malta's Offic
 ## Number of COVID-19 App Check Responses
 
 The COVID-19 Public Health Response Team developed a Digital Risk Assessment Tool known as COVID-19 Check. This repository records the number of submissions received through https://covid19check.gov.mt
+
+This site has been archived and the archived code is available on: https://github.com/COVID19-Malta/covid19check
 
 
