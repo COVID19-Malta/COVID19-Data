@@ -10,7 +10,7 @@ These figures include PCR Tests only and do not include Rapid Antigen Tests that
 
 ## Number of Vaccination Doses
 
-The current data reflects the cumulative number of vaccination doses, the number of individuals that are fully vaccinated (either received two doses of two-dose course or one dose of one-dose coutrse), and the number of individuals that took a first dose (including of the one-dose course Johnson and Johnson vaccine), reported by date.
+The current data reflects the cumulative number of vaccination doses, the number of individuals that are fully vaccinated (either received two doses of two-dose course or one dose of one-dose course), and the number of individuals that took a first dose (including of the one-dose course Johnson and Johnson vaccine), reported by date taken.
 
 ## COVID Alert Malta - Statistics Table
 
