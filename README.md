@@ -4,7 +4,7 @@ This is an Official Open Dataset on COVID19 in Malta from the COVID-19 Public He
 
 ## Number of COVID-19 Tests
 
-These figures include PCR and Rapid Antigen Tests that have been included from 20th February 2021 onwards that have been published.
+These figures include PCR and Rapid Antigen Tests that have been included from 20th July 2020 onwards that have been published.
 
 ## Number of Vaccination Doses
 
