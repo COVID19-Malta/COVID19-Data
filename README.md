@@ -2,11 +2,9 @@
 
 This is an Official Open Dataset on COVID19 in Malta from the COVID-19 Public Health Response Team (Ministry for Health).
 
-## Number of PCR Tests
+## Number of COVID-19 Tests
 
-From 11th September 2020 onwards, the dataset reflects an updated population denominator at 514,564. From 1st February 2020 to 10th September, the dataset used the value of 498,000 as population denominator
-
-These figures include PCR Tests only and do not include Rapid Antigen Tests that have been included from 20th February 2021 onwards in the official infographic.
+These figures include PCR and Rapid Antigen Tests that have been included from 20th February 2021 onwards in the official infographic.
 
 ## Number of Vaccination Doses
 
