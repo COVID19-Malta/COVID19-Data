@@ -1,4 +1,4 @@
-Publication date,PCR tests in previous day,Total PCR tests,Rapid antigen tests in previous day,Total rapid antigen tests,PCR and rapid antigen tests in previous day,Total PCR and rapid antigen tests
+Publication date,NAA tests in previous day,Total NAA tests,Rapid antigen tests in previous day,Total rapid antigen tests,NAA and rapid antigen tests in previous day,Total NAA and rapid antigen tests
 20/07/2020,583,113820,,,583,113820
 21/07/2020,959,114779,,,959,114779
 22/07/2020,1016,115795,,,1016,115795
@@ -497,3 +497,4 @@ Publication date,PCR tests in previous day,Total PCR tests,Rapid antigen tests i
 27/11/2021,1745,1155002,797,244314,2749,1399316
 28/11/2021,1712,1156885,593,244907,2476,1401792
 29/11/2021,1632,1158612,402,245309,2129,1403921
+30/11/2021,1394,1160145,754,246063,2287,1406208
