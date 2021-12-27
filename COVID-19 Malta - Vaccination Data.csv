@@ -1,4 +1,4 @@
-﻿Date,Total Vaccination Doses,Fully vaccinated (2 of 2 or 1 of 1),Received one dose (1 of 2 or 1 of 1),Total Booster doses
+﻿Date of Vaccination,Total Vaccination Doses,Fully vaccinated (2 of 2 or 1 of 1),Received one dose (1 of 2 or 1 of 1),Total Booster doses
 17/01/2021,11705,,,
 18/01/2021,13002,,,
 19/01/2021,14276,,,
@@ -342,3 +342,4 @@
 23/12/2021,1027903,435080,440261,184929
 24/12/2021,1030496,435168,440425,187277
 25/12/2021,1031293,435182,440447,188041
+26/12/2021,1033533,435239,440514,190162
