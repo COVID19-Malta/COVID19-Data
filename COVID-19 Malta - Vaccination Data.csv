@@ -1,4 +1,4 @@
-﻿Date of Vaccination,Total Vaccination Doses,Primary Vaccination,Received one dose (1 of 2 or 1 of 1),Total Booster doses,Total 2nd Booster doses,Omicron adapted booster doses,Total Omicron booster doses
+﻿Date of Vaccination,Total Vaccination Doses,Primary Vaccination,Received one dose,Total Booster doses,Total 2nd Booster doses,Omicron adapted booster doses,Total Omicron booster doses
 17/01/2021,11705,,,,,,
 18/01/2021,13002,,,,,,
 19/01/2021,14276,,,,,,
@@ -655,3 +655,5 @@
 01/11/2022,1343752,471090,478274,360838,67913,,
 02/11/2022,1344146,471097,478280,360872,68260,,
 03/11/2022,na,471098,na,na,na,,
+04/11/2022,na,471115,na,na,na,,
+05/11/2022,na,471098,na,na,na,11,25072
