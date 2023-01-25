@@ -1,4 +1,4 @@
-Week number & Year,Date,New Cases,Total Cases,Recovered,Deaths,Active Cases
+Covering dates & Week Number,Date,New Cases,Total Cases,Recovered,Deaths,Active Cases
 ,06/03/2020,1,1,0,0,1
 ,07/03/2020,2,3,0,0,3
 ,08/03/2020,0,3,0,0,3
@@ -1049,4 +1049,4 @@ Week number & Year,Date,New Cases,Total Cases,Recovered,Deaths,Active Cases
 ,17/01/2023,26,116864,115272,822,374
 ,18/01/2023,18,116882,115325,822,339
 ,19/01/2023,12,116894,115358,823,317
-Week 3/2023,24/01/2023,133,116953,115473,824,260
+16/01-22/01 - Week 3,24/01/2023,133,116953,115473,824,260
