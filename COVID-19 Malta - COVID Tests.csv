@@ -1,4 +1,4 @@
-Covering dates & Week,Publication date,NAA tests in previous day,Total NAA tests,Rapid antigen tests in previous day,Total rapid antigen tests,NAA and rapid antigen tests in previous day,Total NAA and rapid antigen tests
+Covering dates & Week,Publication date,NAA tests in previous week,Total NAA tests,Rapid antigen tests in previous week,Total rapid antigen tests,NAA and rapid antigen tests in previous week,Total NAA and rapid antigen tests
 ,20/07/2020,583,113820,,,583,113820
 ,21/07/2020,959,114779,,,959,114779
 ,22/07/2020,1016,115795,,,1016,115795
@@ -951,6 +951,7 @@ Covering dates & Week,Publication date,NAA tests in previous day,Total NAA tests
 18/09-24/09 - Week 38,26/09/2023,494,1589730,158,562714,653,2152444
 25/09-01/10 - Week 39,03/10/2023,638,1590369,124,562838,763,2153207
 02/10-08/10 - Week 40,10/10/2023,540,1590912,113,562951,656,2153863
-09/10-15/10 - Week 41,17/10/2023,689,1591602,114,563065,804,2154667
-16/10-22/10 - Week 42,24/10/2023,547,1592150,111,563176,659,2155326
-23/10-29/10 - Week 43,31/10/2023,764,1592915,81,563257,846,2156172
+09/10-15/10 - Week 41,17/10/2023,686,1591599,114,563065,801,2154664
+16/10-22/10 - Week 42,24/10/2023,547,1592147,111,563176,659,2155323
+23/10-29/10 - Week 43,31/10/2023,573,1592147,81,563257,655,2155978
+30/10-05/11 - Week 44,07/11/2023,476,1592721,48,563305,524,2156502
